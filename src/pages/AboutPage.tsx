@@ -79,7 +79,7 @@ export function AboutPage() {
                             <a href="mailto:nishalamv@gmail.com" className="flex items-center gap-2 px-4 md:px-5 py-2 rounded-full bg-white/5 hover:bg-white/10 text-white transition-colors border border-white/5 text-sm md:text-base">
                                 <span className="material-symbols-outlined text-sm">mail</span> Contact
                             </a>
-                            <a href="https://instagram.com/nishal.21" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-4 md:px-5 py-2 rounded-full bg-white/5 hover:bg-white/10 text-white transition-colors border border-white/5 text-sm md:text-base">
+                            <a href="https://instagram.com/demonking.___" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-4 md:px-5 py-2 rounded-full bg-white/5 hover:bg-white/10 text-white transition-colors border border-white/5 text-sm md:text-base">
                                 <span className="material-symbols-outlined text-sm">photo_camera</span> Instagram
                             </a>
                         </div>
