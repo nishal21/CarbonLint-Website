@@ -5,4 +5,5 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://carbonlint.com/sitemap.xml
+Sitemap: https://carbonlint.netlify.app/sitemap.xml                    
+  
