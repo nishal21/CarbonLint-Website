@@ -1,0 +1,5 @@
+# Algolia-Crawler-Verif: 703C8D198CE34879
+
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
